@@ -12,6 +12,8 @@ Welcome to my Github! I'm Max, a full-stack software engineer looking to make my
 * Implemented location-based filtering by leveraging the ZipCode API, allowing users to view potential friends within a set geographical distance from them
 * Integrated real-time chat features for matched users using websockets
 * Deployed site can be found [here](https://friender-mj.surge.sh)
+* [Github Repository Backend](https://github.com/maxjeon97/express-friender)
+* [Github Repository Frontend](https://github.com/maxjeon97/react-friender)
 
 **RCTracker** ☕ 🍽️
 * Built the backend using Flask and employed Flask templating with Jinja to dynamically render HTML, simplifying the development workflow and seamlessly integrating server-side logic with front-end presentation
@@ -19,6 +21,7 @@ Welcome to my Github! I'm Max, a full-stack software engineer looking to make my
 * Integrated WTForms to create and validate user input forms, enhancing data accuracy and the user experience
 * Leveraged the Mapquest API to generate interactive maps for displaying the locations of cafes and restaurants, providing users with visual navigation
 * Deployed site can be found [here](https://rctracker.onrender.com)
+* [Github Repository](https://github.com/maxjeon97/RCTracker)
 
 ## More About Me 👨‍🦱
 
