@@ -29,7 +29,7 @@ Welcome to my Github! I'm Max, a full-stack software engineer looking to make my
 
 🌱 I’m currently learning Java to enhance my ability to flexibly fit into a wider variety of software roles
 
-📫 If you have any questions for me at all, email me at maxjeon97@gmail.com or shoot me a message on [LinkedIn](https://www.linkedin.com/in/max-jeon/)! I am open to connect at anytime for virtually any reason.
+📫 If you have any questions for me at all, email me at maxjeon97@gmail.com or shoot me a message on [LinkedIn](https://www.linkedin.com/in/max-jeon/)! I am open to connect at anytime for any reason.
 
 <!--
 **maxjeon97/maxjeon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
