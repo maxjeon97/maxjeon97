@@ -25,7 +25,7 @@ Welcome to my Github! I'm Max, a full-stack software engineer looking to make my
 
 ## More About Me 👨‍🦱
 
-🔭 I’m currently working on building WhatCouldThisBe, a AI chat application built in Next.js that allows users to receive initial analyses and guidance about any worrying health symptoms they may be experiencing
+🔭 I’m currently working on building SymptomSage, a AI chat application built in Next.js that allows users to receive initial analyses and guidance about any worrying health symptoms they may be experiencing
 
 🌱 I’m currently learning Java to enhance my ability to flexibly fit into a wider variety of software roles
 
